@@ -1,74 +1,11 @@
 {
   "users": [
-    {
-      "id": 1,
-      "first name": "Nguyen",
-      "last name": "Thao",
-      "email": "thao@mail.com.vn"
-    },
-    {
-      "id": 2,
-      "first name": "Nguyen",
-      "last name": "Tuong",
-      "email": "tuongnt6@fpt.com.vn"
-    },
-    {
-      "id": 3,
-      "first name": "Nguyen",
-      "last name": "Yen",
-      "email": "yen@mail.com.vn"
-    },
-    {
-      "first name": "Nguyen",
-      "last name": "Le",
-      "email": "le@mail.com.vn",
-      "createdAt": 1629858633510,
-      "id": 4,
-      "fist name": "Nguyen Thanh"
-    },
-    {
-      "first name": "Nguyen",
-      "last name": "Le",
-      "email": "le@mail.com.vn",
-      "createdAt": 1629917811427,
-      "id": 5
-    },
-    {
-      "first name": "test fist name",
-      "last name": "test last name",
-      "email": "test@mail.com.vn",
-      "createdAt": 1629919586278,
-      "id": 6
-    },
-    {
-      "first name": "le",
-      "last name": "chinh",
-      "email": "chinh@mail.com.vn",
-      "createdAt": 1629919702520,
-      "id": 7
-    },
-    {
-      "first name": "bui",
-      "last name": "hieu",
-      "email": "hieu@mail.com",
-      "createdAt": 1629919874261,
-      "id": 8
-    },
-    {
-      "first name": "nguyen",
-      "last name": "test 6",
-      "email": "test6@mail.com.vn",
-      "password": "123",
-      "createdAt": 1629925286559,
-      "id": 9
-    },
-    {
-      "first name": "nguyen ",
-      "last name": "test 7",
-      "email": "test7@mail.com.vn",
-      "password": "123",
-      "createdAt": 1629926011388,
-      "id": 10
-    }
+
+  ],
+  "song " :[
+
+  ],
+  "author" : [
+    
   ]
 }
