@@ -13,8 +13,10 @@
     }
   ],
   "hoso":[
+    {
     "user_id" : 1,
     "chucdanh" : "Developer",
     "namKN" : "2"
+    }
     ]
 }
