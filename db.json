@@ -18,6 +18,13 @@
     "namKN" : "2",
     "id" : 1
     }
+    ],
+  "detail" : [
+    "user_id" : 1,
+    "phone" : "0908714130",
+    "dob" : "1998-08-20",
+    "quoctich" : "Viet Nam",
+    "tinhthanh" : "Binh Dinh"
     ]
 }
 
