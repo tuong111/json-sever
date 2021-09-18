@@ -29,6 +29,20 @@
     "tinhthanh" : "Binh Dinh",
     "id" : 1
     }
+    ],
+  "cvlist" : [
+    "id" : 1,
+    "user_id" : 1,
+    "listCV" : [
+    {
+    "jobungtuyen" : "Lap trinh vien",
+    "muctieu" : "Muc tieu abcdef",
+    "hocvan" : "Dai hoc",
+    "skills" : "Quan ly cong viec",
+    "chungchi" : "SUMMIT 8.0",
+    "congtycu" : "Cong Ty ABC"
+    }
+          ]
     ]
 }
 
