@@ -18,9 +18,32 @@
     "namKN" : "2",
     "id" : 1
     }
+    ],
+  "detail" : [
+    {
+    "user_id" : 1,
+    "phone" : "0908714130",
+    "dob" : "1998-08-20",
+    "gioitinh" : 1,
+    "quoctich" : "Viet Nam",
+    "tinhthanh" : "Binh Dinh",
+    "id" : 1
+    }
+    ],
+  "cvlist" : [
+    {
+    "id" : 1,
+    "user_id" : 1,
+    "listCV" : [
+    {
+    "jobungtuyen" : "Lap trinh vien ABC",
+    "muctieu" : "Muc tieu abcdef",
+    "hocvan" : "Dai hoc",
+    "skills" : "Quan ly cong viec",
+    "chungchi" : "SUMMIT 8.0",
+    "congtycu" : "Cong Ty ABC"
+    }
+          ]
+    }
     ]
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> 31b3488243ed2704fd82a1cdd250487f746cb603
