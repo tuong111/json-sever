@@ -42,6 +42,14 @@
     "skills" : "Quan ly cong viec",
     "chungchi" : "SUMMIT 8.0",
     "congtycu" : "Cong Ty ABC"
+    },
+          {
+    "jobungtuyen" : "Phan tich du lieu",
+    "muctieu" : "Trau doi kien thuc ban than",
+    "hocvan" : "Dai hoc",
+    "skills" : "Quan ly cong viec, Giao tiep",
+    "chungchi" : "Codecademy",
+    "congtycu" : "Cong Ty EDF"
     }
           ]
     }
