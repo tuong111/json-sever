@@ -41,7 +41,12 @@
     "hocvan" : "Dai hoc",
     "skills" : "Quan ly cong viec",
     "chungchi" : "SUMMIT 8.0",
-    "congtycu" : "Cong Ty ABC"
+    "congtycu" : "Cong Ty ABC",
+    "listen" : 7,
+    "speaking: 6,
+    "reading" : 7,
+    "writing" : 7,
+    "sothich" : ["Hat","Dan","The Thao"]
     },
           {
     "jobungtuyen" : "Phan tich du lieu",
@@ -49,7 +54,12 @@
     "hocvan" : "Dai hoc",
     "skills" : "Quan ly cong viec, Giao tiep",
     "chungchi" : "Codecademy",
-    "congtycu" : "Cong Ty EDF"
+    "congtycu" : "Cong Ty EDF",
+    "listen" : 8,
+    "speaking: 7,
+    "reading" : 6,
+    "writing" : 9,
+    "sothich" : ["Bong ban","Nhay","Boi loi"]
     }
           ]
     }
