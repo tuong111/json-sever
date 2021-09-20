@@ -41,9 +41,92 @@
     "hocvan" : "Dai hoc",
     "skills" : "Quan ly cong viec",
     "chungchi" : "SUMMIT 8.0",
-    "congtycu" : "Cong Ty ABC"
+    "congtycu" : "Cong Ty ABC",
+    "listen" : 7,
+    "speaking": 6,
+    "reading" : 7,
+    "writing" : 7,
+    "sothich" : "Hat , nhay, bong ban"
+    },
+    {
+    "jobungtuyen" : "Phan tich du lieu",
+    "muctieu" : "Trau doi kien thuc ban than",
+    "hocvan" : "Dai hoc",
+    "skills" : "Quan ly cong viec, Giao tiep",
+    "chungchi" : "Codecademy",
+    "congtycu" : "Cong Ty EDF",
+    "listen" : 8,
+    "speaking": 7,
+    "reading" : 6,
+    "writing" : 9,
+    "sothich" : "Bong da, Bong ban, Nhay dance"
     }
           ]
     }
+    ],
+    "joblist" : [
+      {
+        "nganhnghe" : 1,
+        "company" :"Cong ty DEF",
+        "jobname" : "Lap trinh vien - fresher",
+        "salary" : 8000000,
+        "hotjob" : 1
+      },
+      {
+        "nganhnghe" : 1,
+        "company" :"Cong ty ABC",
+        "jobname" : "Lap trinh vien - junior",
+        "salary" : 15000000,
+        "hotjob" : 1
+      },
+      {
+        "nganhnghe" : 2,
+        "company" :"Cong ty OMG",
+        "jobname" : "Nhan vien Sale",
+        "salary" : 12000000,
+        "hotjob" : 1
+      },
+      {
+        "nganhnghe" : 1,
+        "company" :"Cong ty DevIT",
+        "jobname" : "Dev - senior",
+        "salary" : 25000000,
+        "hotjob" : 1
+      },
+      {
+        "nganhnghe" : 2,
+        "company" :"Cong ty BDS",
+        "jobname" : "Saler - Leader",
+        "salary" : 15000000,
+        "hotjob" : 1
+      },
+      {
+        "nganhnghe" : 2,
+        "company" :"Cong ty PiPo",
+        "jobname" : "Nhan vien Sale",
+        "salary" : 12000000,
+        "hotjob" : 1
+      },
+      {
+        "nganhnghe" : 3,
+        "company" :"Cong ty MKT",
+        "jobname" : "Nhan vien marketing",
+        "salary" : 10000000,
+        "hotjob" : 1
+      },
+      {
+        "nganhnghe" : 3,
+        "company" :"Cong ty LiLiOA",
+        "jobname" : "Truong phong phat trien kinh doanh",
+        "salary" : 25000000,
+        "hotjob" : 1
+      },
+      {
+        "nganhnghe" : 3,
+        "company" :"Cong ty JestW",
+        "jobname" : "Chuyen vien tu van KH",
+        "salary" : 20000000,
+        "hotjob" : 1
+      }
     ]
 }
