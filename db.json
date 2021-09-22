@@ -145,6 +145,34 @@
         "salary" : 20000000,
         "hotjob" : 1,
         "id" : 9
+      },
+      {
+        "logo" : "https://start-image-proxy.imgix.net/https%3A%2F%2Fimages-workbench.99static.com%2FoOHRbfWi6b1RFzSUXQ5j9Ci2Z5g%3D%2F215x0%3A1442x1227%2Ffit-in%2F305x305%2Ffilters%3Afill%28white%29%2F99designs-contests-attachments%2F34%2F34023%2Fattachment_34023163?auto=format&ch=Width%2CDPR&w=500&h=500&fm=pjpg&s=5b519e10db6a5ad268a4ab0787b1ddeb",
+        "nganhnghe" : 3,
+        "company" :"Cong ty NNM",
+        "jobname" : "Chuyen vien ngan hang",
+        "salary" : 25000000,
+        "hotjob" : 0,
+        "id" : 10
+      },
+      {
+        "logo" : "https://start-image-proxy.imgix.net/https%3A%2F%2Fimages-workbench.99static.com%2FwEWsEm-sng0VaqP1QqWnbKXzPIg%3D%2F242x97%3A957x812%2Ffit-in%2F305x305%2Ffilters%3Afill%28white%29%2F99designs-contests-attachments%2F47%2F47402%2Fattachment_47402153?auto=format&ch=Width%2CDPR&w=500&h=500&fm=pjpg&s=5b54462f6a7819a0db94dec7b49946c2",
+        "nganhnghe" : 3,
+        "company" :"Cong ty OOS",
+        "jobname" : "Nhanv vien van phong",
+        "salary" : 10000000,
+        "hotjob" : 0,
+        "id" : 11
+      },
+      {
+        "logo" : "https://start-image-proxy.imgix.net/https%3A%2F%2Fimages-workbench.99static.com%2Fn5isrRgR1pg7pqI8Y__xBiQE4BM%3D%2F564x346%3A1497x1279%2Ffit-in%2F305x305%2Ffilters%3Afill%28white%29%2F99designs-contests-attachments%2F38%2F38058%2Fattachment_38058317?auto=format&ch=Width%2CDPR&w=500&h=500&fm=pjpg&s=d964ecbee4cadda0b87b37d012ce0d4c",
+        "nganhnghe" : 3,
+        "company" :"Cong ty QWE",
+        "jobname" : "Nhan vien boc vac",
+        "salary" : 15000000,
+        "hotjob" : 0,
+        "id" : 12
       }
+      
     ]
 }
