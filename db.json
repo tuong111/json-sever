@@ -66,67 +66,85 @@
     ],
     "joblist" : [
       {
+        "logo" : "https://start-image-proxy.imgix.net/https%3A%2F%2Fimages-workbench.99static.com%2FXvo7uOLJD2Y7Ztv7pheTzKxRNWM%3D%2F158x0%3A1158x1000%2Ffit-in%2F305x305%2Ffilters%3Afill%28white%29%2F99designs-contests-attachments%2F41%2F41298%2Fattachment_41298640?auto=format&ch=Width%2CDPR&w=500&h=500&fm=pjpg&s=09a8a7850bcb0e3bb23be264f8b68a1b",
         "nganhnghe" : 1,
         "company" :"Cong ty DEF",
         "jobname" : "Lap trinh vien - fresher",
         "salary" : 8000000,
-        "hotjob" : 1
+        "hotjob" : 1,
+        "id" : 1
       },
       {
+        "logo": "https://start-image-proxy.imgix.net/https%3A%2F%2Fimages-workbench.99static.com%2F7AqCrWl0fAt2YJtflwuLkLJDB0E%3D%2F352x547%3A1467x1662%2Ffit-in%2F305x305%2Ffilters%3Afill%28white%29%2F99designs-contests-attachments%2F48%2F48661%2Fattachment_48661534?auto=format&ch=Width%2CDPR&w=500&h=500&fm=pjpg&s=64d8bfd7eabecf77bec3dd6ab012e862" ,
         "nganhnghe" : 1,
         "company" :"Cong ty ABC",
         "jobname" : "Lap trinh vien - junior",
         "salary" : 15000000,
-        "hotjob" : 1
+        "hotjob" : 1,
+        "id" : 2
       },
       {
+        "logo" : "https://start-image-proxy.imgix.net/https%3A%2F%2Fimages-workbench.99static.com%2FvkN1F_eI3wJRmyJzDHqieDwk5bY%3D%2F206x49%3A960x803%2Ffit-in%2F305x305%2Ffilters%3Afill%28white%29%2F99designs-contests-attachments%2F47%2F47932%2Fattachment_47932319?auto=format&ch=Width%2CDPR&w=500&h=500&fm=pjpg&s=b3857c834312d3033ac3dee26160d0cf",
         "nganhnghe" : 2,
         "company" :"Cong ty OMG",
         "jobname" : "Nhan vien Sale",
         "salary" : 12000000,
-        "hotjob" : 1
+        "hotjob" : 1,
+        "id" : 3
       },
       {
+        "logo" : "https://start-image-proxy.imgix.net/https%3A%2F%2Fimages-workbench.99static.com%2FWd8mkCXqCf40v0Tk4M0ephIhjS8%3D%2F125x55%3A1352x1282%2Ffit-in%2F305x305%2Ffilters%3Afill%28white%29%2F99designs-contests-attachments%2F47%2F47943%2Fattachment_47943810?auto=format&ch=Width%2CDPR&w=500&h=500&fm=pjpg&s=f2acbab37d6ce4dce312d9c186ac5687",
         "nganhnghe" : 1,
         "company" :"Cong ty DevIT",
         "jobname" : "Dev - senior",
         "salary" : 25000000,
-        "hotjob" : 1
+        "hotjob" : 1,
+        "id" : 4
       },
       {
+        "logo" : "https://start-image-proxy.imgix.net/https%3A%2F%2Fimages-workbench.99static.com%2FI5xQFLy2OgloQnPuXdZb-bpKYFo%3D%2F147x68%3A854x775%2Ffit-in%2F305x305%2Ffilters%3Afill%28white%29%2F99designs-contests-attachments%2F48%2F48637%2Fattachment_48637120?auto=format&ch=Width%2CDPR&w=500&h=500&fm=pjpg&s=53243e9bb4bef637a441aa07f656b8e3",
         "nganhnghe" : 2,
         "company" :"Cong ty BDS",
         "jobname" : "Saler - Leader",
         "salary" : 15000000,
-        "hotjob" : 1
+        "hotjob" : 1,
+        "id" : 5
       },
       {
+        "logo" : "https://start-image-proxy.imgix.net/https%3A%2F%2Fimages-workbench.99static.com%2FxD8faNJqy6cSSkJQHfpIXp5WaQg%3D%2F332x130%3A1052x850%2Ffit-in%2F305x305%2Ffilters%3Afill%28white%29%2F99designs-contests-attachments%2F40%2F40705%2Fattachment_40705189?auto=format&ch=Width%2CDPR&w=500&h=500&fm=pjpg&s=8f1d5b466708da33602738060d2a4c33",
         "nganhnghe" : 2,
         "company" :"Cong ty PiPo",
         "jobname" : "Nhan vien Sale",
         "salary" : 12000000,
-        "hotjob" : 1
+        "hotjob" : 1,
+        "id" : 6
       },
       {
+        "logo" : "https://start-image-proxy.imgix.net/https%3A%2F%2Fimages-workbench.99static.com%2FjFGed1zeZHQRYo8rIXbHmqDb6Qw%3D%2F636x363%3A1325x1052%2Ffit-in%2F305x305%2Ffilters%3Afill%28white%29%2F99designs-contests-attachments%2F45%2F45545%2Fattachment_45545543?auto=format&ch=Width%2CDPR&w=500&h=500&fm=pjpg&s=52ab3ee0113c67e3de98ae0f09664647",
         "nganhnghe" : 3,
         "company" :"Cong ty MKT",
         "jobname" : "Nhan vien marketing",
         "salary" : 10000000,
-        "hotjob" : 1
+        "hotjob" : 1,
+        "id" : 7
       },
       {
+        "logo" : "https://start-image-proxy.imgix.net/https%3A%2F%2Fimages-workbench.99static.com%2Fh8xA2p2WYzZAKC9Duzbm6PYko_M%3D%2F383x413%3A1124x1154%2Ffit-in%2F305x305%2Ffilters%3Afill%28white%29%2F99designs-contests-attachments%2F16%2F16523%2Fattachment_16523715?auto=format&ch=Width%2CDPR&w=500&h=500&fm=pjpg&s=113e2bb025e4093a02eb56ddedfaf480",
         "nganhnghe" : 3,
         "company" :"Cong ty LiLiOA",
         "jobname" : "Truong phong phat trien kinh doanh",
         "salary" : 25000000,
-        "hotjob" : 1
+        "hotjob" : 1,
+        "id" : 8
       },
       {
+        "logo" : "https://start-image-proxy.imgix.net/https%3A%2F%2Fimages-workbench.99static.com%2FyV6mBlKQU64avzpLkZAJfmWP2s0%3D%2F232x104%3A765x637%2Ffit-in%2F305x305%2Ffilters%3Afill%28white%29%2F99designs-contests-attachments%2F34%2F34168%2Fattachment_34168873?auto=format&ch=Width%2CDPR&w=500&h=500&fm=pjpg&s=9f8ae5bd28f777cd76bb107779048585",
         "nganhnghe" : 3,
         "company" :"Cong ty JestW",
         "jobname" : "Chuyen vien tu van KH",
         "salary" : 20000000,
-        "hotjob" : 1
+        "hotjob" : 1,
+        "id" : 9
       }
     ]
 }
