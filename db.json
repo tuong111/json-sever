@@ -75,6 +75,8 @@
         "hotjob" : 1,
         "mota" : "Mo ta job 1",
         "noilamviec" : "TP Ho Chi Minh",
+        "yeucau" : "Yeu cau cong viec so 1",
+        "ngaydang" : "2021-09-01",
         "id" : 1
       },
       {
@@ -86,6 +88,8 @@
         "hotjob" : 1,
         "mota" : "Mo ta job 2",
         "noilamviec" : "TP Ho Chi Minh",
+        "yeucau" : "Yeu cau cong viec so 2",
+        "ngaydang" : "2021-09-02",
         "id" : 2
       },
       {
@@ -97,6 +101,8 @@
         "hotjob" : 1,
         "mota" : "Mo ta job 3",
         "noilamviec" : "TP Ha Noi",
+        "yeucau" : "Yeu cau cong viec so 3",
+        "ngaydang" : "2021-09-03",
         "id" : 3
       },
       {
@@ -108,6 +114,8 @@
         "hotjob" : 1,
         "mota" : "Mo ta job 4",
         "noilamviec" : "TP Da Nang",
+        "yeucau" : "Yeu cau cong viec so 4",
+        "ngaydang" : "2021-09-04",
         "id" : 4
       },
       {
@@ -119,6 +127,8 @@
         "hotjob" : 1,
         "mota" : "Mo ta job 5",
         "noilamviec" : "TP Ho Chi Minh",
+        "yeucau" : "Yeu cau cong viec so 5",
+        "ngaydang" : "2021-09-05",
         "id" : 5
       },
       {
@@ -130,6 +140,8 @@
         "hotjob" : 1,
         "mota" : "Mo ta job 6",
         "noilamviec" : "Binh Dinh",
+        "yeucau" : "Yeu cau cong viec so 6",
+        "ngaydang" : "2021-09-06",
         "id" : 6
       },
       {
@@ -141,6 +153,8 @@
         "hotjob" : 1,
         "mota" : "Mo ta job 7",
         "noilamviec" : "Binh Duong",
+        "yeucau" : "Yeu cau cong viec so 7",
+        "ngaydang" : "2021-09-07",
         "id" : 7
       },
       {
@@ -152,6 +166,8 @@
         "hotjob" : 1,
         "mota" : "Mo ta job 8",
         "noilamviec" : "TP Ho Chi Minh",
+        "yeucau" : "Yeu cau cong viec so 8",
+        "ngaydang" : "2021-09-08",
         "id" : 8
       },
       {
@@ -163,6 +179,8 @@
         "hotjob" : 1,
         "mota" : "Mo ta job 9",
         "noilamviec" : "TP Ha Noi",
+        "yeucau" : "Yeu cau cong viec so 9",
+        "ngaydang" : "2021-09-09",
         "id" : 9
       },
       {
@@ -174,6 +192,8 @@
         "hotjob" : 0,
         "mota" : "Mo ta job 10",
         "noilamviec" : "TP Da Nang",
+        "yeucau" : "Yeu cau cong viec so 10",
+        "ngaydang" : "2021-09-10",
         "id" : 10
       },
       {
@@ -185,6 +205,8 @@
         "hotjob" : 0,
         "mota" : "Mo ta job 11",
         "noilamviec" : "TP Thu Dau Mot",
+        "yeucau" : "Yeu cau cong viec so 11",
+        "ngaydang" : "2021-09-11",
         "id" : 11
       },
       {
@@ -196,6 +218,8 @@
         "hotjob" : 0,
         "mota" : "Mo ta job 12",
         "noilamviec" : "TP Ho Chi Minh",
+        "yeucau" : "Yeu cau cong viec so 12",
+        "ngaydang" : "2021-09-12",
         "id" : 12
       }   
     ]
