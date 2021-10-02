@@ -426,6 +426,26 @@
       ],
       "createdAt": 1632623166610,
       "id": 6
+    },
+    {
+      "user_id": 7,
+      "listCV": [
+        {
+          "jobungtuyen": "xxxxxxxxx",
+          "muctieu": "xxxxxx",
+          "hocvan": "zxvzxvzx",
+          "skills": "vzxvzxv",
+          "chungchi": "zxvzxvzxv",
+          "congtycu": "zxvzxvzx",
+          "listen": "6",
+          "speaking": "6",
+          "reading": "5",
+          "writing": "7",
+          "sothich": "vzxvzxvzxv"
+        }
+      ],
+      "createdAt": 1632623166610,
+      "id": 7
     }
   ],
   "joblist": [
