@@ -71,7 +71,7 @@
       "id": 7
     }
   ],
-  "hoso":[
+  "hoso": [
     {
       "user_id": 1,
       "chucdanh": "Developer 1",
@@ -121,20 +121,128 @@
       "id": 7
     }
   ],
-  "detail" : [
+  "detail": [
     {
-    "user_id" : 1,
-    "phone" : "0908714130",
-    "dob" : "1998-08-20",
-    "gioitinh" : 1,
-    "quoctich" : "Viet Nam",
-    "tinhthanh" : "Binh Dinh",
-    "jobdaungtuyen" : [1,3],
-    "jobdaluu" : [2,4],
-    "id" : 1
+      "user_id": 1,
+      "phone": "0908714130",
+      "dob": "1998-08-20",
+      "gioitinh": 1,
+      "quoctich": "Viet Nam",
+      "tinhthanh": "Binh Dinh",
+      "jobdaungtuyen": [
+        1,
+        3
+      ],
+      "jobdaluu": [
+        2,
+        4
+      ],
+      "id": 1
+    },
+    {
+      "user_id": 2,
+      "phone": "0908714131",
+      "dob": "1998-08-20",
+      "gioitinh": 1,
+      "quoctich": "Viet Nam",
+      "tinhthanh": "Binh Dinh",
+      "jobdaungtuyen": [
+        1,
+        7
+      ],
+      "jobdaluu": [
+        2,
+        9
+      ],
+      "id": 2
+    },
+    {
+      "user_id": 3,
+      "phone": "0908714130",
+      "dob": "1998-08-20",
+      "gioitinh": 1,
+      "quoctich": "Viet Nam",
+      "tinhthanh": "Binh Dinh",
+      "jobdaungtuyen": [
+        1,
+        3
+      ],
+      "jobdaluu": [
+        2,
+        4
+      ],
+      "id": 3
+    },
+    {
+      "user_id": 4,
+      "phone": "0908714130",
+      "dob": "1998-08-20",
+      "gioitinh": 1,
+      "quoctich": "Viet Nam",
+      "tinhthanh": "Binh Dinh",
+      "jobdaungtuyen": [
+        1,
+        3
+      ],
+      "jobdaluu": [
+        2,
+        4
+      ],
+      "id": 4
+    },
+    {
+      "user_id": 5,
+      "phone": "0908714130",
+      "dob": "1998-08-20",
+      "gioitinh": 1,
+      "quoctich": "Viet Nam",
+      "tinhthanh": "Binh Dinh",
+      "jobdaungtuyen": [
+        1,
+        3
+      ],
+      "jobdaluu": [
+        2,
+        4
+      ],
+      "id": 5
+    },
+    {
+      "user_id": 6,
+      "phone": "0908714130",
+      "dob": "1998-08-20",
+      "gioitinh": 1,
+      "quoctich": "Viet Nam",
+      "tinhthanh": "Binh Dinh",
+      "jobdaungtuyen": [
+        1,
+        3
+      ],
+      "jobdaluu": [
+        2,
+        4
+      ],
+      "id": 6
+    },
+    {
+      "user_id": 7,
+      "phone": "0908714130",
+      "dob": "1998-08-20",
+      "gioitinh": 1,
+      "quoctich": "Viet Nam",
+      "tinhthanh": "Binh Dinh",
+      "jobdaungtuyen": [
+        1,
+        3
+      ],
+      "jobdaluu": [
+        2,
+        4
+      ],
+      "id": 7
     }
-    ],
-  "cvlist" : [
+  ],
+  "cvlist": [
     {
       "id": 1,
       "user_id": 1,
@@ -320,280 +428,279 @@
       "id": 6
     }
   ],
-    "joblist" : [
-      {
-        "logo" : "https://start-image-proxy.imgix.net/https%3A%2F%2Fimages-workbench.99static.com%2FXvo7uOLJD2Y7Ztv7pheTzKxRNWM%3D%2F158x0%3A1158x1000%2Ffit-in%2F305x305%2Ffilters%3Afill%28white%29%2F99designs-contests-attachments%2F41%2F41298%2Fattachment_41298640?auto=format&ch=Width%2CDPR&w=500&h=500&fm=pjpg&s=09a8a7850bcb0e3bb23be264f8b68a1b",
-        "nganhnghe" : 1,
-        "company" :"Cong ty DEF",
-        "jobname" : "Lap trinh vien - fresher",
-        "salary" : 8000000,
-        "hotjob" : 1,
-        "mota" : "Mo ta job 1",
-        "noilamviec" : "TP Ho Chi Minh",
-        "yeucau" : "Yeu cau cong viec so 1",
-        "ngaydang" : "2021-09-01",
-        "id" : 1
-      },
-      {
-        "logo": "https://start-image-proxy.imgix.net/https%3A%2F%2Fimages-workbench.99static.com%2F7AqCrWl0fAt2YJtflwuLkLJDB0E%3D%2F352x547%3A1467x1662%2Ffit-in%2F305x305%2Ffilters%3Afill%28white%29%2F99designs-contests-attachments%2F48%2F48661%2Fattachment_48661534?auto=format&ch=Width%2CDPR&w=500&h=500&fm=pjpg&s=64d8bfd7eabecf77bec3dd6ab012e862" ,
-        "nganhnghe" : 1,
-        "company" :"Cong ty ABC",
-        "jobname" : "Lap trinh vien - junior",
-        "salary" : 15000000,
-        "hotjob" : 1,
-        "mota" : "Mo ta job 2",
-        "noilamviec" : "TP Ho Chi Minh",
-        "yeucau" : "Yeu cau cong viec so 2",
-        "ngaydang" : "2021-09-02",
-        "id" : 2
-      },
-      {
-        "logo" : "https://start-image-proxy.imgix.net/https%3A%2F%2Fimages-workbench.99static.com%2FvkN1F_eI3wJRmyJzDHqieDwk5bY%3D%2F206x49%3A960x803%2Ffit-in%2F305x305%2Ffilters%3Afill%28white%29%2F99designs-contests-attachments%2F47%2F47932%2Fattachment_47932319?auto=format&ch=Width%2CDPR&w=500&h=500&fm=pjpg&s=b3857c834312d3033ac3dee26160d0cf",
-        "nganhnghe" : 2,
-        "company" :"Cong ty OMG",
-        "jobname" : "Nhan vien Sale",
-        "salary" : 12000000,
-        "hotjob" : 1,
-        "mota" : "Mo ta job 3",
-        "noilamviec" : "TP Ha Noi",
-        "yeucau" : "Yeu cau cong viec so 3",
-        "ngaydang" : "2021-09-03",
-        "id" : 3
-      },
-      {
-        "logo" : "https://start-image-proxy.imgix.net/https%3A%2F%2Fimages-workbench.99static.com%2FWd8mkCXqCf40v0Tk4M0ephIhjS8%3D%2F125x55%3A1352x1282%2Ffit-in%2F305x305%2Ffilters%3Afill%28white%29%2F99designs-contests-attachments%2F47%2F47943%2Fattachment_47943810?auto=format&ch=Width%2CDPR&w=500&h=500&fm=pjpg&s=f2acbab37d6ce4dce312d9c186ac5687",
-        "nganhnghe" : 1,
-        "company" :"Cong ty DevIT",
-        "jobname" : "Dev - senior",
-        "salary" : 25000000,
-        "hotjob" : 1,
-        "mota" : "Mo ta job 4",
-        "noilamviec" : "TP Da Nang",
-        "yeucau" : "Yeu cau cong viec so 4",
-        "ngaydang" : "2021-09-04",
-        "id" : 4
-      },
-      {
-        "logo" : "https://start-image-proxy.imgix.net/https%3A%2F%2Fimages-workbench.99static.com%2FI5xQFLy2OgloQnPuXdZb-bpKYFo%3D%2F147x68%3A854x775%2Ffit-in%2F305x305%2Ffilters%3Afill%28white%29%2F99designs-contests-attachments%2F48%2F48637%2Fattachment_48637120?auto=format&ch=Width%2CDPR&w=500&h=500&fm=pjpg&s=53243e9bb4bef637a441aa07f656b8e3",
-        "nganhnghe" : 2,
-        "company" :"Cong ty BDS",
-        "jobname" : "Saler - Leader",
-        "salary" : 15000000,
-        "hotjob" : 1,
-        "mota" : "Mo ta job 5",
-        "noilamviec" : "TP Ho Chi Minh",
-        "yeucau" : "Yeu cau cong viec so 5",
-        "ngaydang" : "2021-09-05",
-        "id" : 5
-      },
-      {
-        "logo" : "https://start-image-proxy.imgix.net/https%3A%2F%2Fimages-workbench.99static.com%2FxD8faNJqy6cSSkJQHfpIXp5WaQg%3D%2F332x130%3A1052x850%2Ffit-in%2F305x305%2Ffilters%3Afill%28white%29%2F99designs-contests-attachments%2F40%2F40705%2Fattachment_40705189?auto=format&ch=Width%2CDPR&w=500&h=500&fm=pjpg&s=8f1d5b466708da33602738060d2a4c33",
-        "nganhnghe" : 2,
-        "company" :"Cong ty PiPo",
-        "jobname" : "Nhan vien Sale",
-        "salary" : 12000000,
-        "hotjob" : 1,
-        "mota" : "Mo ta job 6",
-        "noilamviec" : "Binh Dinh",
-        "yeucau" : "Yeu cau cong viec so 6",
-        "ngaydang" : "2021-09-06",
-        "id" : 6
-      },
-      {
-        "logo" : "https://start-image-proxy.imgix.net/https%3A%2F%2Fimages-workbench.99static.com%2FjFGed1zeZHQRYo8rIXbHmqDb6Qw%3D%2F636x363%3A1325x1052%2Ffit-in%2F305x305%2Ffilters%3Afill%28white%29%2F99designs-contests-attachments%2F45%2F45545%2Fattachment_45545543?auto=format&ch=Width%2CDPR&w=500&h=500&fm=pjpg&s=52ab3ee0113c67e3de98ae0f09664647",
-        "nganhnghe" : 3,
-        "company" :"Cong ty MKT",
-        "jobname" : "Nhan vien marketing",
-        "salary" : 10000000,
-        "hotjob" : 1,
-        "mota" : "Mo ta job 7",
-        "noilamviec" : "Binh Duong",
-        "yeucau" : "Yeu cau cong viec so 7",
-        "ngaydang" : "2021-09-07",
-        "id" : 7
-      },
-      {
-        "logo" : "https://start-image-proxy.imgix.net/https%3A%2F%2Fimages-workbench.99static.com%2Fh8xA2p2WYzZAKC9Duzbm6PYko_M%3D%2F383x413%3A1124x1154%2Ffit-in%2F305x305%2Ffilters%3Afill%28white%29%2F99designs-contests-attachments%2F16%2F16523%2Fattachment_16523715?auto=format&ch=Width%2CDPR&w=500&h=500&fm=pjpg&s=113e2bb025e4093a02eb56ddedfaf480",
-        "nganhnghe" : 3,
-        "company" :"Cong ty LiLiOA",
-        "jobname" : "Truong phong phat trien kinh doanh",
-        "salary" : 25000000,
-        "hotjob" : 1,
-        "mota" : "Mo ta job 8",
-        "noilamviec" : "TP Ho Chi Minh",
-        "yeucau" : "Yeu cau cong viec so 8",
-        "ngaydang" : "2021-09-08",
-        "id" : 8
-      },
-      {
-        "logo" : "https://start-image-proxy.imgix.net/https%3A%2F%2Fimages-workbench.99static.com%2FyV6mBlKQU64avzpLkZAJfmWP2s0%3D%2F232x104%3A765x637%2Ffit-in%2F305x305%2Ffilters%3Afill%28white%29%2F99designs-contests-attachments%2F34%2F34168%2Fattachment_34168873?auto=format&ch=Width%2CDPR&w=500&h=500&fm=pjpg&s=9f8ae5bd28f777cd76bb107779048585",
-        "nganhnghe" : 3,
-        "company" :"Cong ty JestW",
-        "jobname" : "Chuyen vien tu van KH",
-        "salary" : 20000000,
-        "hotjob" : 1,
-        "mota" : "Mo ta job 9",
-        "noilamviec" : "TP Ha Noi",
-        "yeucau" : "Yeu cau cong viec so 9",
-        "ngaydang" : "2021-09-09",
-        "id" : 9
-      },
-      {
-        "logo" : "https://start-image-proxy.imgix.net/https%3A%2F%2Fimages-workbench.99static.com%2FoOHRbfWi6b1RFzSUXQ5j9Ci2Z5g%3D%2F215x0%3A1442x1227%2Ffit-in%2F305x305%2Ffilters%3Afill%28white%29%2F99designs-contests-attachments%2F34%2F34023%2Fattachment_34023163?auto=format&ch=Width%2CDPR&w=500&h=500&fm=pjpg&s=5b519e10db6a5ad268a4ab0787b1ddeb",
-        "nganhnghe" : 3,
-        "company" :"Cong ty NNM",
-        "jobname" : "Chuyen vien ngan hang",
-        "salary" : 25000000,
-        "hotjob" : 0,
-        "mota" : "Mo ta job 10",
-        "noilamviec" : "TP Da Nang",
-        "yeucau" : "Yeu cau cong viec so 10",
-        "ngaydang" : "2021-09-10",
-        "id" : 10
-      },
-      {
-        "logo" : "https://start-image-proxy.imgix.net/https%3A%2F%2Fimages-workbench.99static.com%2FwEWsEm-sng0VaqP1QqWnbKXzPIg%3D%2F242x97%3A957x812%2Ffit-in%2F305x305%2Ffilters%3Afill%28white%29%2F99designs-contests-attachments%2F47%2F47402%2Fattachment_47402153?auto=format&ch=Width%2CDPR&w=500&h=500&fm=pjpg&s=5b54462f6a7819a0db94dec7b49946c2",
-        "nganhnghe" : 3,
-        "company" :"Cong ty OOS",
-        "jobname" : "Nhanv vien van phong",
-        "salary" : 10000000,
-        "hotjob" : 0,
-        "mota" : "Mo ta job 11",
-        "noilamviec" : "TP Thu Dau Mot",
-        "yeucau" : "Yeu cau cong viec so 11",
-        "ngaydang" : "2021-09-11",
-        "id" : 11
-      },
-      {
-        "logo" : "https://start-image-proxy.imgix.net/https%3A%2F%2Fimages-workbench.99static.com%2Fn5isrRgR1pg7pqI8Y__xBiQE4BM%3D%2F564x346%3A1497x1279%2Ffit-in%2F305x305%2Ffilters%3Afill%28white%29%2F99designs-contests-attachments%2F38%2F38058%2Fattachment_38058317?auto=format&ch=Width%2CDPR&w=500&h=500&fm=pjpg&s=d964ecbee4cadda0b87b37d012ce0d4c",
-        "nganhnghe" : 3,
-        "company" :"Cong ty QWE",
-        "jobname" : "Nhan vien boc vac",
-        "salary" : 15000000,
-        "hotjob" : 0,
-        "mota" : "Mo ta job 12",
-        "noilamviec" : "TP Ho Chi Minh",
-        "yeucau" : "Yeu cau cong viec so 12",
-        "ngaydang" : "2021-09-12",
-        "id" : 12
-      },
-      {
-        "logo" : "https://start-image-proxy.imgix.net/https%3A%2F%2Fimages-workbench.99static.com%2FwEWsEm-sng0VaqP1QqWnbKXzPIg%3D%2F242x97%3A957x812%2Ffit-in%2F305x305%2Ffilters%3Afill%28white%29%2F99designs-contests-attachments%2F47%2F47402%2Fattachment_47402153?auto=format&ch=Width%2CDPR&w=500&h=500&fm=pjpg&s=5b54462f6a7819a0db94dec7b49946c2",
-        "nganhnghe" : 1,
-        "company" :"Cong ty QQQ",
-        "jobname" : "Fresher ReactJS",
-        "salary" : 15000000,
-        "hotjob" : 1,
-        "mota" : "Mo ta job 13",
-        "noilamviec" : "TP Ho Chi Minh",
-        "yeucau" : "Yeu cau cong viec so 13",
-        "ngaydang" : "2021-09-13",
-        "id" : 13
-      } ,
-      {
-        "logo" : "https://start-image-proxy.imgix.net/https%3A%2F%2Fimages-workbench.99static.com%2FT6VLBMlcvZM0E1wptvQJhtEsIv0%3D%2F541x210%3A1467x1136%2Ffit-in%2F305x305%2Ffilters%3Afill%28white%29%2F99designs-contests-attachments%2F49%2F49191%2Fattachment_49191018?auto=format&ch=Width%2CDPR&w=500&h=500&fm=pjpg&s=e4658536fcac2fee01dd567eae945d1c",
-        "nganhnghe" : 1,
-        "company" :"Cong ty LAS",
-        "jobname" : "Fresher VueJS",
-        "salary" : 15000000,
-        "hotjob" : 0,
-        "mota" : "Mo ta job 14",
-        "noilamviec" : "Ha Noi",
-        "yeucau" : "Yeu cau cong viec so 14",
-        "ngaydang" : "2021-09-14",
-        "id" : 14
-      } ,
-      {
-        "logo" : "https://start-image-proxy.imgix.net/https%3A%2F%2Fimages-workbench.99static.com%2FD03FAEjZ5v0Rk1u8xCrM8Zguqyo%3D%2F42x0%3A978x936%2Ffit-in%2F305x305%2Ffilters%3Afill%28white%29%2F99designs-contests-attachments%2F42%2F42941%2Fattachment_42941738?auto=format&ch=Width%2CDPR&w=500&h=500&fm=pjpg&s=4b9928fd8b596041674e55bf52bb37f9",
-        "nganhnghe" : 1,
-        "company" :"Cong ty Lalp",
-        "jobname" : "Fresher AngularJS",
-        "salary" : 15000000,
-        "hotjob" : 1,
-        "mota" : "Mo ta job 15",
-        "noilamviec" : "Da Nang",
-        "yeucau" : "Yeu cau cong viec so 15",
-        "ngaydang" : "2021-09-15",
-        "id" : 15
-      } ,
-      {
-        "logo" : "https://start-image-proxy.imgix.net/https%3A%2F%2Fimages-workbench.99static.com%2FuHYn_wnsdhJxVaRl43NewBuhDWM%3D%2F249x121%3A842x714%2Ffit-in%2F305x305%2Ffilters%3Afill%28white%29%2F99designs-contests-attachments%2F49%2F49135%2Fattachment_49135588?auto=format&ch=Width%2CDPR&w=500&h=500&fm=pjpg&s=ee57d99fa699de08121b35d90ed7b679",
-        "nganhnghe" : 1,
-        "company" :"Cong ty LASARE",
-        "jobname" : "JAVA DEV",
-        "salary" : 25000000,
-        "hotjob" : 1,
-        "mota" : "Mo ta job 16",
-        "noilamviec" : "TP Ho Chi Minh",
-        "yeucau" : "Yeu cau cong viec so 16",
-        "ngaydang" : "2021-09-16",
-        "id" : 16
-      } ,
-      {
-        "logo" : "https://start-image-proxy.imgix.net/https%3A%2F%2Fimages-workbench.99static.com%2FVlFCQ2tSfhD_5SV_NSczy-TthxM%3D%2F138x128%3A638x628%2Ffit-in%2F305x305%2Ffilters%3Afill%28white%29%2F99designs-contests-attachments%2F3%2F3636%2Fattachment_3636973?auto=format&ch=Width%2CDPR&w=500&h=500&fm=pjpg&s=29eee711e56a25e3c64a0a07a006f1fa",
-        "nganhnghe" : 2,
-        "company" :"Cong ty READLEAF",
-        "jobname" : "Nhan vien ban hang",
-        "salary" : 25000000,
-        "hotjob" : 0,
-        "mota" : "Mo ta job 17",
-        "noilamviec" : "TP Ho Chi Minh",
-        "yeucau" : "Yeu cau cong viec so 17",
-        "ngaydang" : "2021-09-17",
-        "id" : 17
-      },
-      {
-        "logo" : "https://start-image-proxy.imgix.net/https%3A%2F%2Fimages-workbench.99static.com%2FVlFCQ2tSfhD_5SV_NSczy-TthxM%3D%2F138x128%3A638x628%2Ffit-in%2F305x305%2Ffilters%3Afill%28white%29%2F99designs-contests-attachments%2F3%2F3636%2Fattachment_3636973?auto=format&ch=Width%2CDPR&w=500&h=500&fm=pjpg&s=29eee711e56a25e3c64a0a07a006f1fa",
-        "nganhnghe" : 2,
-        "company" :"Cong ty READLEAF",
-        "jobname" : "Nhan vien ban hang",
-        "salary" : 13000000,
-        "hotjob" : 1,
-        "mota" : "Mo ta job 18",
-        "noilamviec" : "TP Ho Chi Minh",
-        "yeucau" : "Yeu cau cong viec so 18",
-        "ngaydang" : "2021-09-18",
-        "id" : 18
-      },
-      {
-        "logo" : "https://start-image-proxy.imgix.net/https%3A%2F%2Fimages-workbench.99static.com%2FcV-5fS8iOSb2rocw6otrPYgaGPE%3D%2F358x228%3A1121x991%2Ffit-in%2F305x305%2Ffilters%3Afill%28white%29%2F99designs-contests-attachments%2F6%2F6068%2Fattachment_6068619?auto=format&ch=Width%2CDPR&w=500&h=500&fm=pjpg&s=ae4e34803d8783587a8bb05e4644159c",
-        "nganhnghe" : 2,
-        "company" :"Cong ty BIZEN",
-        "jobname" : "Nhan vien ban hang",
-        "salary" : 16000000,
-        "hotjob" : 0,
-        "mota" : "Mo ta job 19",
-        "noilamviec" : "Ha Noi",
-        "yeucau" : "Yeu cau cong viec so 19",
-        "ngaydang" : "2021-09-19",
-        "id" : 19
-      },
-      {
-        "logo" : "https://start-image-proxy.imgix.net/https%3A%2F%2Fimages-workbench.99static.com%2FR3gAVOCzfYzSBL_RjCLv3tRWHj4%3D%2F410x1405%3A988x1983%2Ffit-in%2F305x305%2Ffilters%3Afill%28white%29%2F99designs-contests-attachments%2F47%2F47714%2Fattachment_47714784?auto=format&ch=Width%2CDPR&w=500&h=500&fm=pjpg&s=277cb1776da20df8ded82d3f4c175952",
-        "nganhnghe" : 2,
-        "company" :"Cong ty ENTIO",
-        "jobname" : "Nhan vien Chot Don",
-        "salary" : 16000000,
-        "hotjob" : 1,
-        "mota" : "Mo ta job 20",
-        "noilamviec" : "Ha Noi",
-        "yeucau" : "Yeu cau cong viec so 20",
-        "ngaydang" : "2021-09-20",
-        "id" : 20
-      },
-      {
-        "logo" : "https://start-image-proxy.imgix.net/https%3A%2F%2Fimages-workbench.99static.com%2F0UQPrsZY4TxoKTT0KKYqKcanwJ0%3D%2F128x0%3A896x768%2Ffit-in%2F305x305%2Ffilters%3Afill%28white%29%2F99designs-contests-attachments%2F49%2F49174%2Fattachment_49174579?auto=format&ch=Width%2CDPR&w=500&h=500&fm=pjpg&s=094b02a7ea8b270f1f889ed3478980fa",
-        "nganhnghe" : 2,
-        "company" :"Cong ty INVESTO CATS",
-        "jobname" : "Chuyen vien tu van KH",
-        "salary" : 18000000,
-        "hotjob" : 1,
-        "mota" : "Mo ta job 21",
-        "noilamviec" : "Da Nang",
-        "yeucau" : "Yeu cau cong viec so 21",
-        "ngaydang" : "2021-09-21",
-        "id" : 21
-      }
-      
-    ]
+  "joblist": [
+    {
+      "logo": "https://start-image-proxy.imgix.net/https%3A%2F%2Fimages-workbench.99static.com%2FXvo7uOLJD2Y7Ztv7pheTzKxRNWM%3D%2F158x0%3A1158x1000%2Ffit-in%2F305x305%2Ffilters%3Afill%28white%29%2F99designs-contests-attachments%2F41%2F41298%2Fattachment_41298640?auto=format&ch=Width%2CDPR&w=500&h=500&fm=pjpg&s=09a8a7850bcb0e3bb23be264f8b68a1b",
+      "nganhnghe": 1,
+      "company": "Cong ty DEF",
+      "jobname": "Lap trinh vien - fresher",
+      "salary": 8000000,
+      "hotjob": 1,
+      "mota": "Mo ta job 1",
+      "noilamviec": "TP Ho Chi Minh",
+      "yeucau": "Yeu cau cong viec so 1",
+      "ngaydang": "2021-09-01",
+      "id": 1
+    },
+    {
+      "logo": "https://start-image-proxy.imgix.net/https%3A%2F%2Fimages-workbench.99static.com%2F7AqCrWl0fAt2YJtflwuLkLJDB0E%3D%2F352x547%3A1467x1662%2Ffit-in%2F305x305%2Ffilters%3Afill%28white%29%2F99designs-contests-attachments%2F48%2F48661%2Fattachment_48661534?auto=format&ch=Width%2CDPR&w=500&h=500&fm=pjpg&s=64d8bfd7eabecf77bec3dd6ab012e862",
+      "nganhnghe": 1,
+      "company": "Cong ty ABC",
+      "jobname": "Lap trinh vien - junior",
+      "salary": 15000000,
+      "hotjob": 1,
+      "mota": "Mo ta job 2",
+      "noilamviec": "TP Ho Chi Minh",
+      "yeucau": "Yeu cau cong viec so 2",
+      "ngaydang": "2021-09-02",
+      "id": 2
+    },
+    {
+      "logo": "https://start-image-proxy.imgix.net/https%3A%2F%2Fimages-workbench.99static.com%2FvkN1F_eI3wJRmyJzDHqieDwk5bY%3D%2F206x49%3A960x803%2Ffit-in%2F305x305%2Ffilters%3Afill%28white%29%2F99designs-contests-attachments%2F47%2F47932%2Fattachment_47932319?auto=format&ch=Width%2CDPR&w=500&h=500&fm=pjpg&s=b3857c834312d3033ac3dee26160d0cf",
+      "nganhnghe": 2,
+      "company": "Cong ty OMG",
+      "jobname": "Nhan vien Sale",
+      "salary": 12000000,
+      "hotjob": 1,
+      "mota": "Mo ta job 3",
+      "noilamviec": "TP Ha Noi",
+      "yeucau": "Yeu cau cong viec so 3",
+      "ngaydang": "2021-09-03",
+      "id": 3
+    },
+    {
+      "logo": "https://start-image-proxy.imgix.net/https%3A%2F%2Fimages-workbench.99static.com%2FWd8mkCXqCf40v0Tk4M0ephIhjS8%3D%2F125x55%3A1352x1282%2Ffit-in%2F305x305%2Ffilters%3Afill%28white%29%2F99designs-contests-attachments%2F47%2F47943%2Fattachment_47943810?auto=format&ch=Width%2CDPR&w=500&h=500&fm=pjpg&s=f2acbab37d6ce4dce312d9c186ac5687",
+      "nganhnghe": 1,
+      "company": "Cong ty DevIT",
+      "jobname": "Dev - senior",
+      "salary": 25000000,
+      "hotjob": 1,
+      "mota": "Mo ta job 4",
+      "noilamviec": "TP Da Nang",
+      "yeucau": "Yeu cau cong viec so 4",
+      "ngaydang": "2021-09-04",
+      "id": 4
+    },
+    {
+      "logo": "https://start-image-proxy.imgix.net/https%3A%2F%2Fimages-workbench.99static.com%2FI5xQFLy2OgloQnPuXdZb-bpKYFo%3D%2F147x68%3A854x775%2Ffit-in%2F305x305%2Ffilters%3Afill%28white%29%2F99designs-contests-attachments%2F48%2F48637%2Fattachment_48637120?auto=format&ch=Width%2CDPR&w=500&h=500&fm=pjpg&s=53243e9bb4bef637a441aa07f656b8e3",
+      "nganhnghe": 2,
+      "company": "Cong ty BDS",
+      "jobname": "Saler - Leader",
+      "salary": 15000000,
+      "hotjob": 1,
+      "mota": "Mo ta job 5",
+      "noilamviec": "TP Ho Chi Minh",
+      "yeucau": "Yeu cau cong viec so 5",
+      "ngaydang": "2021-09-05",
+      "id": 5
+    },
+    {
+      "logo": "https://start-image-proxy.imgix.net/https%3A%2F%2Fimages-workbench.99static.com%2FxD8faNJqy6cSSkJQHfpIXp5WaQg%3D%2F332x130%3A1052x850%2Ffit-in%2F305x305%2Ffilters%3Afill%28white%29%2F99designs-contests-attachments%2F40%2F40705%2Fattachment_40705189?auto=format&ch=Width%2CDPR&w=500&h=500&fm=pjpg&s=8f1d5b466708da33602738060d2a4c33",
+      "nganhnghe": 2,
+      "company": "Cong ty PiPo",
+      "jobname": "Nhan vien Sale",
+      "salary": 12000000,
+      "hotjob": 1,
+      "mota": "Mo ta job 6",
+      "noilamviec": "Binh Dinh",
+      "yeucau": "Yeu cau cong viec so 6",
+      "ngaydang": "2021-09-06",
+      "id": 6
+    },
+    {
+      "logo": "https://start-image-proxy.imgix.net/https%3A%2F%2Fimages-workbench.99static.com%2FjFGed1zeZHQRYo8rIXbHmqDb6Qw%3D%2F636x363%3A1325x1052%2Ffit-in%2F305x305%2Ffilters%3Afill%28white%29%2F99designs-contests-attachments%2F45%2F45545%2Fattachment_45545543?auto=format&ch=Width%2CDPR&w=500&h=500&fm=pjpg&s=52ab3ee0113c67e3de98ae0f09664647",
+      "nganhnghe": 3,
+      "company": "Cong ty MKT",
+      "jobname": "Nhan vien marketing",
+      "salary": 10000000,
+      "hotjob": 1,
+      "mota": "Mo ta job 7",
+      "noilamviec": "Binh Duong",
+      "yeucau": "Yeu cau cong viec so 7",
+      "ngaydang": "2021-09-07",
+      "id": 7
+    },
+    {
+      "logo": "https://start-image-proxy.imgix.net/https%3A%2F%2Fimages-workbench.99static.com%2Fh8xA2p2WYzZAKC9Duzbm6PYko_M%3D%2F383x413%3A1124x1154%2Ffit-in%2F305x305%2Ffilters%3Afill%28white%29%2F99designs-contests-attachments%2F16%2F16523%2Fattachment_16523715?auto=format&ch=Width%2CDPR&w=500&h=500&fm=pjpg&s=113e2bb025e4093a02eb56ddedfaf480",
+      "nganhnghe": 3,
+      "company": "Cong ty LiLiOA",
+      "jobname": "Truong phong phat trien kinh doanh",
+      "salary": 25000000,
+      "hotjob": 1,
+      "mota": "Mo ta job 8",
+      "noilamviec": "TP Ho Chi Minh",
+      "yeucau": "Yeu cau cong viec so 8",
+      "ngaydang": "2021-09-08",
+      "id": 8
+    },
+    {
+      "logo": "https://start-image-proxy.imgix.net/https%3A%2F%2Fimages-workbench.99static.com%2FyV6mBlKQU64avzpLkZAJfmWP2s0%3D%2F232x104%3A765x637%2Ffit-in%2F305x305%2Ffilters%3Afill%28white%29%2F99designs-contests-attachments%2F34%2F34168%2Fattachment_34168873?auto=format&ch=Width%2CDPR&w=500&h=500&fm=pjpg&s=9f8ae5bd28f777cd76bb107779048585",
+      "nganhnghe": 3,
+      "company": "Cong ty JestW",
+      "jobname": "Chuyen vien tu van KH",
+      "salary": 20000000,
+      "hotjob": 1,
+      "mota": "Mo ta job 9",
+      "noilamviec": "TP Ha Noi",
+      "yeucau": "Yeu cau cong viec so 9",
+      "ngaydang": "2021-09-09",
+      "id": 9
+    },
+    {
+      "logo": "https://start-image-proxy.imgix.net/https%3A%2F%2Fimages-workbench.99static.com%2FoOHRbfWi6b1RFzSUXQ5j9Ci2Z5g%3D%2F215x0%3A1442x1227%2Ffit-in%2F305x305%2Ffilters%3Afill%28white%29%2F99designs-contests-attachments%2F34%2F34023%2Fattachment_34023163?auto=format&ch=Width%2CDPR&w=500&h=500&fm=pjpg&s=5b519e10db6a5ad268a4ab0787b1ddeb",
+      "nganhnghe": 3,
+      "company": "Cong ty NNM",
+      "jobname": "Chuyen vien ngan hang",
+      "salary": 25000000,
+      "hotjob": 0,
+      "mota": "Mo ta job 10",
+      "noilamviec": "TP Da Nang",
+      "yeucau": "Yeu cau cong viec so 10",
+      "ngaydang": "2021-09-10",
+      "id": 10
+    },
+    {
+      "logo": "https://start-image-proxy.imgix.net/https%3A%2F%2Fimages-workbench.99static.com%2FwEWsEm-sng0VaqP1QqWnbKXzPIg%3D%2F242x97%3A957x812%2Ffit-in%2F305x305%2Ffilters%3Afill%28white%29%2F99designs-contests-attachments%2F47%2F47402%2Fattachment_47402153?auto=format&ch=Width%2CDPR&w=500&h=500&fm=pjpg&s=5b54462f6a7819a0db94dec7b49946c2",
+      "nganhnghe": 3,
+      "company": "Cong ty OOS",
+      "jobname": "Nhanv vien van phong",
+      "salary": 10000000,
+      "hotjob": 0,
+      "mota": "Mo ta job 11",
+      "noilamviec": "TP Thu Dau Mot",
+      "yeucau": "Yeu cau cong viec so 11",
+      "ngaydang": "2021-09-11",
+      "id": 11
+    },
+    {
+      "logo": "https://start-image-proxy.imgix.net/https%3A%2F%2Fimages-workbench.99static.com%2Fn5isrRgR1pg7pqI8Y__xBiQE4BM%3D%2F564x346%3A1497x1279%2Ffit-in%2F305x305%2Ffilters%3Afill%28white%29%2F99designs-contests-attachments%2F38%2F38058%2Fattachment_38058317?auto=format&ch=Width%2CDPR&w=500&h=500&fm=pjpg&s=d964ecbee4cadda0b87b37d012ce0d4c",
+      "nganhnghe": 3,
+      "company": "Cong ty QWE",
+      "jobname": "Nhan vien boc vac",
+      "salary": 15000000,
+      "hotjob": 0,
+      "mota": "Mo ta job 12",
+      "noilamviec": "TP Ho Chi Minh",
+      "yeucau": "Yeu cau cong viec so 12",
+      "ngaydang": "2021-09-12",
+      "id": 12
+    },
+    {
+      "logo": "https://start-image-proxy.imgix.net/https%3A%2F%2Fimages-workbench.99static.com%2FwEWsEm-sng0VaqP1QqWnbKXzPIg%3D%2F242x97%3A957x812%2Ffit-in%2F305x305%2Ffilters%3Afill%28white%29%2F99designs-contests-attachments%2F47%2F47402%2Fattachment_47402153?auto=format&ch=Width%2CDPR&w=500&h=500&fm=pjpg&s=5b54462f6a7819a0db94dec7b49946c2",
+      "nganhnghe": 1,
+      "company": "Cong ty QQQ",
+      "jobname": "Fresher ReactJS",
+      "salary": 15000000,
+      "hotjob": 1,
+      "mota": "Mo ta job 13",
+      "noilamviec": "TP Ho Chi Minh",
+      "yeucau": "Yeu cau cong viec so 13",
+      "ngaydang": "2021-09-13",
+      "id": 13
+    },
+    {
+      "logo": "https://start-image-proxy.imgix.net/https%3A%2F%2Fimages-workbench.99static.com%2FT6VLBMlcvZM0E1wptvQJhtEsIv0%3D%2F541x210%3A1467x1136%2Ffit-in%2F305x305%2Ffilters%3Afill%28white%29%2F99designs-contests-attachments%2F49%2F49191%2Fattachment_49191018?auto=format&ch=Width%2CDPR&w=500&h=500&fm=pjpg&s=e4658536fcac2fee01dd567eae945d1c",
+      "nganhnghe": 1,
+      "company": "Cong ty LAS",
+      "jobname": "Fresher VueJS",
+      "salary": 15000000,
+      "hotjob": 0,
+      "mota": "Mo ta job 14",
+      "noilamviec": "Ha Noi",
+      "yeucau": "Yeu cau cong viec so 14",
+      "ngaydang": "2021-09-14",
+      "id": 14
+    },
+    {
+      "logo": "https://start-image-proxy.imgix.net/https%3A%2F%2Fimages-workbench.99static.com%2FD03FAEjZ5v0Rk1u8xCrM8Zguqyo%3D%2F42x0%3A978x936%2Ffit-in%2F305x305%2Ffilters%3Afill%28white%29%2F99designs-contests-attachments%2F42%2F42941%2Fattachment_42941738?auto=format&ch=Width%2CDPR&w=500&h=500&fm=pjpg&s=4b9928fd8b596041674e55bf52bb37f9",
+      "nganhnghe": 1,
+      "company": "Cong ty Lalp",
+      "jobname": "Fresher AngularJS",
+      "salary": 15000000,
+      "hotjob": 1,
+      "mota": "Mo ta job 15",
+      "noilamviec": "Da Nang",
+      "yeucau": "Yeu cau cong viec so 15",
+      "ngaydang": "2021-09-15",
+      "id": 15
+    },
+    {
+      "logo": "https://start-image-proxy.imgix.net/https%3A%2F%2Fimages-workbench.99static.com%2FuHYn_wnsdhJxVaRl43NewBuhDWM%3D%2F249x121%3A842x714%2Ffit-in%2F305x305%2Ffilters%3Afill%28white%29%2F99designs-contests-attachments%2F49%2F49135%2Fattachment_49135588?auto=format&ch=Width%2CDPR&w=500&h=500&fm=pjpg&s=ee57d99fa699de08121b35d90ed7b679",
+      "nganhnghe": 1,
+      "company": "Cong ty LASARE",
+      "jobname": "JAVA DEV",
+      "salary": 25000000,
+      "hotjob": 1,
+      "mota": "Mo ta job 16",
+      "noilamviec": "TP Ho Chi Minh",
+      "yeucau": "Yeu cau cong viec so 16",
+      "ngaydang": "2021-09-16",
+      "id": 16
+    },
+    {
+      "logo": "https://start-image-proxy.imgix.net/https%3A%2F%2Fimages-workbench.99static.com%2FVlFCQ2tSfhD_5SV_NSczy-TthxM%3D%2F138x128%3A638x628%2Ffit-in%2F305x305%2Ffilters%3Afill%28white%29%2F99designs-contests-attachments%2F3%2F3636%2Fattachment_3636973?auto=format&ch=Width%2CDPR&w=500&h=500&fm=pjpg&s=29eee711e56a25e3c64a0a07a006f1fa",
+      "nganhnghe": 2,
+      "company": "Cong ty READLEAF",
+      "jobname": "Nhan vien ban hang",
+      "salary": 25000000,
+      "hotjob": 0,
+      "mota": "Mo ta job 17",
+      "noilamviec": "TP Ho Chi Minh",
+      "yeucau": "Yeu cau cong viec so 17",
+      "ngaydang": "2021-09-17",
+      "id": 17
+    },
+    {
+      "logo": "https://start-image-proxy.imgix.net/https%3A%2F%2Fimages-workbench.99static.com%2FVlFCQ2tSfhD_5SV_NSczy-TthxM%3D%2F138x128%3A638x628%2Ffit-in%2F305x305%2Ffilters%3Afill%28white%29%2F99designs-contests-attachments%2F3%2F3636%2Fattachment_3636973?auto=format&ch=Width%2CDPR&w=500&h=500&fm=pjpg&s=29eee711e56a25e3c64a0a07a006f1fa",
+      "nganhnghe": 2,
+      "company": "Cong ty READLEAF",
+      "jobname": "Nhan vien ban hang",
+      "salary": 13000000,
+      "hotjob": 1,
+      "mota": "Mo ta job 18",
+      "noilamviec": "TP Ho Chi Minh",
+      "yeucau": "Yeu cau cong viec so 18",
+      "ngaydang": "2021-09-18",
+      "id": 18
+    },
+    {
+      "logo": "https://start-image-proxy.imgix.net/https%3A%2F%2Fimages-workbench.99static.com%2FcV-5fS8iOSb2rocw6otrPYgaGPE%3D%2F358x228%3A1121x991%2Ffit-in%2F305x305%2Ffilters%3Afill%28white%29%2F99designs-contests-attachments%2F6%2F6068%2Fattachment_6068619?auto=format&ch=Width%2CDPR&w=500&h=500&fm=pjpg&s=ae4e34803d8783587a8bb05e4644159c",
+      "nganhnghe": 2,
+      "company": "Cong ty BIZEN",
+      "jobname": "Nhan vien ban hang",
+      "salary": 16000000,
+      "hotjob": 0,
+      "mota": "Mo ta job 19",
+      "noilamviec": "Ha Noi",
+      "yeucau": "Yeu cau cong viec so 19",
+      "ngaydang": "2021-09-19",
+      "id": 19
+    },
+    {
+      "logo": "https://start-image-proxy.imgix.net/https%3A%2F%2Fimages-workbench.99static.com%2FR3gAVOCzfYzSBL_RjCLv3tRWHj4%3D%2F410x1405%3A988x1983%2Ffit-in%2F305x305%2Ffilters%3Afill%28white%29%2F99designs-contests-attachments%2F47%2F47714%2Fattachment_47714784?auto=format&ch=Width%2CDPR&w=500&h=500&fm=pjpg&s=277cb1776da20df8ded82d3f4c175952",
+      "nganhnghe": 2,
+      "company": "Cong ty ENTIO",
+      "jobname": "Nhan vien Chot Don",
+      "salary": 16000000,
+      "hotjob": 1,
+      "mota": "Mo ta job 20",
+      "noilamviec": "Ha Noi",
+      "yeucau": "Yeu cau cong viec so 20",
+      "ngaydang": "2021-09-20",
+      "id": 20
+    },
+    {
+      "logo": "https://start-image-proxy.imgix.net/https%3A%2F%2Fimages-workbench.99static.com%2F0UQPrsZY4TxoKTT0KKYqKcanwJ0%3D%2F128x0%3A896x768%2Ffit-in%2F305x305%2Ffilters%3Afill%28white%29%2F99designs-contests-attachments%2F49%2F49174%2Fattachment_49174579?auto=format&ch=Width%2CDPR&w=500&h=500&fm=pjpg&s=094b02a7ea8b270f1f889ed3478980fa",
+      "nganhnghe": 2,
+      "company": "Cong ty INVESTO CATS",
+      "jobname": "Chuyen vien tu van KH",
+      "salary": 18000000,
+      "hotjob": 1,
+      "mota": "Mo ta job 21",
+      "noilamviec": "Da Nang",
+      "yeucau": "Yeu cau cong viec so 21",
+      "ngaydang": "2021-09-21",
+      "id": 21
+    }
+  ]
 }
