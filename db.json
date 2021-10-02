@@ -121,6 +121,19 @@
       "id": 7
     }
   ],
+  "detail" : [
+    {
+    "user_id" : 1,
+    "phone" : "0908714130",
+    "dob" : "1998-08-20",
+    "gioitinh" : 1,
+    "quoctich" : "Viet Nam",
+    "tinhthanh" : "Binh Dinh",
+    "jobdaungtuyen" : [1,3],
+    "jobdaluu" : [2,4],
+    "id" : 1
+    }
+    ],
   "cvlist" : [
     {
       "id": 1,
